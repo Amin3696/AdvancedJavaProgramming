@@ -1,4 +1,4 @@
-package substitution_principle;
+package chapter02.substitution_principle;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +24,7 @@ public class Main {
         printBuildings(offices);*/
 
 /*
-        Error:(24, 24) java: incompatible types: java.util.List<substitution_principle.Office> cannot be converted to java.util.List<substitution_principle.Building>
+        Error:(24, 24) java: incompatible types: java.util.List<chapter02.substitution_principle.Office> cannot be converted to java.util.List<chapter02.substitution_principle.Building>
         THE SOLUTION IS WILDCARDS
 */
 

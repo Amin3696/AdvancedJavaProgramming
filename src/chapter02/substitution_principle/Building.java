@@ -1,4 +1,4 @@
-package substitution_principle;
+package chapter02.substitution_principle;
 
 public class Building {
     @Override

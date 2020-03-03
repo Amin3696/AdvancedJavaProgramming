@@ -1,8 +1,8 @@
-package wildcards;
+package chapter02.wildcards;
 
-import substitution_principle.Building;
-import substitution_principle.House;
-import substitution_principle.Office;
+import chapter02.substitution_principle.Building;
+import chapter02.substitution_principle.House;
+import chapter02.substitution_principle.Office;
 
 import java.util.ArrayList;
 import java.util.List;

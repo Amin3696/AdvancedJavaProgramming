@@ -1,6 +1,4 @@
-package generics;
-
-import com.sun.xml.internal.ws.util.QNameMap;
+package chapter02.generics;
 
 import java.util.ArrayList;
 import java.util.List;

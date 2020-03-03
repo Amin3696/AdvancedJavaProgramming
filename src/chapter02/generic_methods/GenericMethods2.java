@@ -1,4 +1,4 @@
-package generic_methods;
+package chapter02.generic_methods;
 
 import java.util.ArrayList;
 import java.util.List;

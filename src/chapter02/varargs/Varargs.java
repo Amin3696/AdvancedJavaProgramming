@@ -1,4 +1,4 @@
-package varargs;
+package chapter02.varargs;
 
 /**
  * @author Amin Shahimian
@@ -17,7 +17,7 @@ public class Varargs {
     }
 
     //St may need to write a method which should be executable with different number of arguments
-    //we use Variable length arguments (varargs) and write one method instead of
+    //we use Variable length arguments (chapter02.varargs) and write one method instead of
     //overwrite the several methods with different number of args
 
     private static void printShoppingList(String... item) {
@@ -31,5 +31,5 @@ public class Varargs {
     }
 }
 
-   
+
 

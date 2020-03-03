@@ -1,4 +1,4 @@
-package generic_methods;
+package chapter02.generic_methods;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +29,7 @@ public class GenericMethods {
         System.out.println(intList.get(0));
         // but now:
    /* Exception in thread "main" java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
-        	at generic_methods.GenericMethods.main(GenericMethods.java:29)*/
+        	at chapter02.generic_methods.GenericMethods.main(GenericMethods.java:29)*/
     }
 //check the approach in GenericMethods2
 }
