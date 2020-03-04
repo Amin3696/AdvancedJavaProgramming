@@ -1,4 +1,4 @@
-package queue;
+package chapter03.queue;
 
 import java.util.LinkedList;
 
@@ -6,7 +6,7 @@ import java.util.LinkedList;
  * @author Amin Shahimian
  */
 public class Store {
-    //several classes are in java API implement the queue, I used LinkedList for FIFO ;)
+    //several classes are in java API implement the chapter03.queue, I used LinkedList for FIFO ;)
     public static void main(String[] args) {
 
         LinkedList<Customer> queue = new LinkedList<>();

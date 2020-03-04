@@ -1,4 +1,4 @@
-package queue;
+package chapter03.queue;
 
 
 /**
