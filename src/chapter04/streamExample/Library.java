@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Library {
 
     public static void main(String[] args) {
-/*difference of ParallelStream and Stream is : Parallel make the iteration with 2 core of cpu ,
+/*difference of ParallelStream and Stream is in the speed of performance: Parallel make the iteration with 2 core of cpu ,
 or can be done with mor core to iterate but stream will be fulfilled with one core and it would be slower than parallel.*/
 
         ArrayList<Book> books = populateLibrary();
