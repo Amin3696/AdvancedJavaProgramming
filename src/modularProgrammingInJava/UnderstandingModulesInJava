@@ -1,0 +1,20 @@
+
+##In Java9 a new module system was introduced
+##Modularity makes it easier to write encapsulated code by breaking up large code bases into small sections
+##before Java9 JDK was one huge monolithic structure even if you want to write a small application you still have to have all hole jdk on your machine
+##Modular JDK means jdK can be breaking up to the small sections
+##Modules can be added
+##Modularity is not just for JDK
+##Java applications are can be modular too
+##Modules contain code, and maybe other resources
+##Modules must have unique names
+##A module contains some information description itself
+##By default everything in the module is hidden from the outside world
+##Even if the class be public, it is not accessible outside the module
+##Each module has module descriptor
+##This can be used to specify if the code in the module should be accessible to the other modules
+##The descriptor also can be used to state if code from other modules is going to be used
+##It is a useful way to make sure code is encapsulated
+##only the code that is needed can be made visible to the outside world
+##and it makes structuring large code bases much more manageable
+
